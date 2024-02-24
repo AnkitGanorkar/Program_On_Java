@@ -3,8 +3,8 @@ package com.day26;
 import java.util.Scanner;
 
 public class Area_and_Perimeter02 {
-	
 	// Java Program to Find Area and Perimeter of Rectangle By using dynamic values
+	//Hello
 	public static void main(String[] args) {
 		// variables declared
 		int length, breadth, perimeter, area;
